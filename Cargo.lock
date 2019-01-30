@@ -1,0 +1,4 @@
+[[package]]
+name = "rust-montecarlo"
+version = "0.1.0"
+
